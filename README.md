@@ -1,4 +1,4 @@
---Thanks for improving the macro (if you did)
+Thanks for improving the macro (if you did)
 --
 This is an auto macro for the weekly challenge "Turkey hunt" in roblox tower heroes. Use with tinytask.
 *It is useful for getting candy mimic and golden turkey*
